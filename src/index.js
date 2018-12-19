@@ -57,5 +57,4 @@ function handleEdit(event) {
   submitButtonEl.value = "Update"
 
   state.editing = relatedTaskLi
-
 }
